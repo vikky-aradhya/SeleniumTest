@@ -21,7 +21,7 @@ class RegisterPage():
     # user_information
     register_username_textbox_name = "email"
     register_password_textbox_name = "password"
-    conf_password_textbox_name = "confirmPassord"
+    conf_password_textbox_name = "confirmPassword"
 
     # Clickregister_button
     register_button_name = "register"
