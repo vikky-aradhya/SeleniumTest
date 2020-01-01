@@ -1,0 +1,41 @@
+{
+  "67da9484ed5db365ef3e3c72ec4dc62f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5e6827d74e281645",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576769792136,
+        "stop" : 1576769798124,
+        "duration" : 5988
+      }
+    } ]
+  },
+  "b99632f9331fd7f624a0138cbf4a3149" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "aaee7140367f8052",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"confirmPassord\"}\n  (Session info: chrome=79.0.3945.79)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+      "time" : {
+        "start" : 1576769773145,
+        "stop" : 1576769777411,
+        "duration" : 4266
+      }
+    } ]
+  }
+}

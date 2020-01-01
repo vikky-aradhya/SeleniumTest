@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Vikkyaradhya",
+    "children" : [ {
+      "name" : "17708-MainThread",
+      "children" : [ {
+        "name" : "test_login",
+        "uid" : "5e6827d74e281645",
+        "parentUid" : "7249c8815d527bb4f28b13dea0e80b53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576769792136,
+          "stop" : 1576769798124,
+          "duration" : 5988
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_register",
+        "uid" : "aaee7140367f8052",
+        "parentUid" : "7249c8815d527bb4f28b13dea0e80b53",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576769773145,
+          "stop" : 1576769777411,
+          "duration" : 4266
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7249c8815d527bb4f28b13dea0e80b53"
+    } ],
+    "uid" : "676a498088edc905de39505a7a07b150"
+  } ]
+}

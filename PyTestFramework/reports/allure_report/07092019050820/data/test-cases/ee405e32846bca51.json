@@ -1,0 +1,101 @@
+{
+  "uid" : "ee405e32846bca51",
+  "name" : "test_login",
+  "fullName" : "test_2_Login.TestLogin#test_login",
+  "historyId" : "67da9484ed5db365ef3e3c72ec4dc62f",
+  "time" : {
+    "start" : 1567850890280,
+    "stop" : 1567850896027,
+    "duration" : 5747
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_setup",
+    "time" : {
+      "start" : 1567850880283,
+      "stop" : 1567850890279,
+      "duration" : 9996
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a2a778edae45ede",
+      "name" : "stdout",
+      "source" : "a2a778edae45ede.txt",
+      "type" : "text/plain",
+      "size" : 15
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "test_setup::0",
+    "time" : {
+      "start" : 1567850896028,
+      "stop" : 1567850900196,
+      "duration" : 4168
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite"
+  }, {
+    "name" : "suite",
+    "value" : "test_2_Login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "Vikkyaradhya"
+  }, {
+    "name" : "thread",
+    "value" : "15296-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_2_Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee405e32846bca51.json",
+  "parameterValues" : [ ]
+}

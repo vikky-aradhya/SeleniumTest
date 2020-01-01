@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {\"method\":\"name\",\"selector\":\"confirmPassord\"}\n  (Session info: chrome=79.0.3945.79)\n  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.18363 x86_64)",
+      "children" : [ {
+        "name" : "test_register",
+        "uid" : "370dbbaf3b90baea",
+        "parentUid" : "eb38e1e2f926888679ec1d3cf80ac03a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1576765728865,
+          "stop" : 1576765731862,
+          "duration" : 2997
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eb38e1e2f926888679ec1d3cf80ac03a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

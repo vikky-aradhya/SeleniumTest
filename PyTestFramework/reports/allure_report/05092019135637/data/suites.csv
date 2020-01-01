@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 05 13:56:24 CDT 2019","Thu Sep 05 13:56:33 CDT 2019","9039","","test_2_Login","TestLogin","","","test_login",""
+"broken","Thu Sep 05 13:56:08 CDT 2019","Thu Sep 05 13:56:10 CDT 2019","2640","","test_1_Register","TestRegister","","","test_register",""
